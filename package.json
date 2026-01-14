@@ -23,7 +23,7 @@
     "@types/react-dom": "19.0.2",
     "@types/recharts": "^1.8.29",
     "@vercel/postgres": "0.10.0",
-    "ai": "^4.0.16",
+    "ai": "^5.0.0",
     "autoprefixer": "10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
